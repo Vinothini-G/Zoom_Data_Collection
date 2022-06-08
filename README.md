@@ -20,4 +20,6 @@ granularity for the zoom call
 • Create dataset across several zoom calls with FPS
 and network packet information -->
 
-Step 1:  Use Irene's base code and write Zoom data handling script
+Step 1: Use Irene's base code and write Zoom data handling script
+Step 2: Write a script to automate Zoom login
+Step 3: Update - Since automated login is not possible in Zoom, can't proceed this algorithm.
