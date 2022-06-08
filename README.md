@@ -21,5 +21,7 @@ granularity for the zoom call
 and network packet information -->
 
 Step 1: Use Irene's base code and write Zoom data handling script
+
 Step 2: Write a script to automate Zoom login
+
 Step 3: Update - Since automated login is not possible in Zoom, can't proceed this algorithm.
